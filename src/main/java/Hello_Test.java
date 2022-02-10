@@ -4,6 +4,6 @@ public class Hello_Test {
         System.out.println("hello word");
         System.out.println("master");
         System.out.println("push test");
-         System.out.println("push test");
+         System.out.println("pull test");
     }
 }
